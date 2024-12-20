@@ -15,20 +15,20 @@
 
 - ⚡ Fun fact **I'm a big history nerd!**
 
-<h3 align="center">🛠️ Personal Projects 🛠️</h3>
+<h3 align="center">🛠️ Personal Projects & Contributions 🛠️</h3>
 <ul>
   <li>
-    <strong>Storiza:</strong> <em>An AI-driven storytelling platform to enhance literacy and engagement in students. Collaborating with Dr. Walter Leite at the Virtual Learning Lab.</em>
+    <strong>KimchiBot:</strong> <em>A personalized voice assistant leveraging OpenAI's APIs for dynamic interactions and task automation.</em>
     <a href="https://virtuallearninglab.org/research/storiza/">Learn More</a>
   </li>
   <li>
-    <strong>Lassi the Robot Dog:</strong> <em>Developing an AI-powered robotic dog designed for companionship and assistance.</em>
+    <strong>Game-Seek:</strong> <em>Using a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences, leveraging multiple data structures.</em>
   </li>
   <li>
-    <strong>Custom Voice AI Assistant:</strong> <em>A personalized voice assistant leveraging OpenAI's APIs for dynamic interactions and task automation.</em>
+    <strong>RescueGator:</strong> <em>A robot dog that will assist in search and rescue efforts. Contributed to the computer vision aspect of the robot dog.</em>
   </li>
   <li>
-    <strong>Game Recommendation System:</strong> <em>Using a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences.</em>
+    <strong>UF SASE Website:</strong> <em>Contributed to the UF SASE website, more specifically to the UI/UX design of the login page and the frontend for the programs pages.</em>
   </li>
 </ul>
 
