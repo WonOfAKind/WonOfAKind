@@ -28,7 +28,8 @@
     <strong>RescueGator:</strong> <em>A robot dog that will assist in search and rescue efforts. Contributed to the computer vision aspect of the robot dog.</em>
   </li>
   <li>
-    <strong>UF SASE Website:</strong> <em>Contributed to the UF SASE website, more specifically to the UI/UX design of the login page and the frontend for the programs pages.</em>
+    <strong>UF SASE Website:</strong> <em>Contributed to the UF SASE website, more specifically to the UI/UX design of the login page and the front end for the programs pages.</em>
+    <a href="https://ufsase.com/">See it here!</a>
   </li>
 </ul>
 
