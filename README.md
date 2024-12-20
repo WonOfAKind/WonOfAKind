@@ -15,6 +15,23 @@
 
 - ⚡ Fun fact **I'm a big history nerd!**
 
+<h3 align="center">🛠️ Personal Projects 🛠️</h3>
+<ul>
+  <li>
+    <strong>Storiza:</strong> <em>An AI-driven storytelling platform to enhance literacy and engagement in students. Collaborating with Dr. Walter Leite at the Virtual Learning Lab.</em>
+    <a href="https://virtuallearninglab.org/research/storiza/">Learn More</a>
+  </li>
+  <li>
+    <strong>Lassi the Robot Dog:</strong> <em>Developing an AI-powered robotic dog designed for companionship and assistance.</em>
+  </li>
+  <li>
+    <strong>Custom Voice AI Assistant:</strong> <em>A personalized voice assistant leveraging OpenAI's APIs for dynamic interactions and task automation.</em>
+  </li>
+  <li>
+    <strong>Game Recommendation System:</strong> <em>Using a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences.</em>
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/wonchaelee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wonchaelee" height="30" width="40" /></a>
