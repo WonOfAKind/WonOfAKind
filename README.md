@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Storiza + Virtual Learning Lab with Dr. Walter Leite, custom voice AI assistant](www.virtuallearninglab.org)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms + PyTorch**
+- 🌱 I’m currently learning **Information and Database Systems + PyTorch**
 
 - 🤝 I’m looking for help with **Building more cool projects, internships, PyTorch**
 
