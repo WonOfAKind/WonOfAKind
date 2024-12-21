@@ -19,7 +19,7 @@
 <ul>
   <li>
     <strong>KimchiBot:</strong> <em>A personalized voice assistant leveraging OpenAI's APIs for dynamic interactions and task automation.</em>
-    <a href="https://virtuallearninglab.org/research/storiza/">Learn More</a>
+    <a href="https://github.com/WonOfAKind/KimchiBot/blob/main/Kimchi">Look a the code here!</a>
   </li>
   <li>
     <strong>Game-Seek:</strong> <em>Using a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences, leveraging multiple data structures.</em>
