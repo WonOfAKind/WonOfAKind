@@ -22,7 +22,7 @@
     <a href="https://github.com/WonOfAKind/KimchiBot/blob/main/Kimchi">Look a the code here!</a>
   </li>
   <li>
-    <strong>Game-Seek:</strong> <em>Using a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences, leveraging multiple data structures.</em>
+    <strong>Game-Seek:</strong> <em>Used a Kaggle Steam games dataset to create a C++ system recommending games based on user preferences, leveraging multiple data structures.</em>
     <a href="https://github.com/bnaner/Game-Seek">Take a peek here!</a>
   </li>
   <li>
