@@ -17,6 +17,10 @@
 
 <h3 align="center">🛠️ Personal Projects & Contributions 🛠️</h3>
 <ul>
+    <li>
+    <strong>SnapCards:</strong> <em>SnapCards is a web application that lets users create, take, and track quizzes while analyzing their performance over time through interactive dashboards</em>
+    <a href="https://github.com/qwright10/cen3031">Look a the code here!</a>
+  </li>
   <li>
     <strong>KimchiBot:</strong> <em>A personalized voice assistant leveraging OpenAI's APIs for dynamic interactions and task automation.</em>
     <a href="https://github.com/WonOfAKind/KimchiBot/blob/main/Kimchi">Look a the code here!</a>
