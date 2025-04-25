@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **wonchaelee05@gmail.com**
 
-- 📄 Know about my experiences: [Here](https://drive.google.com/file/d/1RTOr1UnFmdEc-1TNb969x4YzqLanuyd6/view?usp=sharing)
+- 📄 Know about my experiences: [Here](https://drive.google.com/file/d/1vjjJaB2w38MhRPQq2VB8Z4JKG7YzQwzu/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a big history nerd!**
 
