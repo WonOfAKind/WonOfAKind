@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wonchae Lee</h1>
 <h3 align="center">A determined Computer Science student at the University of Florida!</h3>
 
-- 🔭 I’m currently working on [Storiza + Virtual Learning Lab with Dr. Walter Leite, custom voice AI assistant](https://virtuallearninglab.org/research/storiza/)
+- 🔭 I’m currently working on [Storiza + Virtual Learning Lab with Dr. Walter Leite, Story Evaluation Methodologies](https://virtuallearninglab.org/research/storiza/)
 
 - 🌱 I’m currently learning **Information and Database Systems + PyTorch**
 
