@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wonchae Lee</h1>
 <h3 align="center">A determined Computer Science student at the University of Florida!</h3>
 
-- 🔭 I’m currently working on [Storiza + Virtual Learning Lab with Dr. Walter Leite, Story Evaluation Methodologies](https://virtuallearninglab.org/research/storiza/)
+- 🔭 I’m currently working on [My Internship! (And helping out on some research for my professor)](https://virtuallearninglab.org/research/storiza/)
 
-- 🌱 I’m currently learning **Information and Database Systems + PyTorch**
+- 🌱 I’m currently learning **Quantum Computing & Algorithms**
 
-- 🤝 I’m looking for help with **Building more cool projects, internships, PyTorch**
+- 🤝 I’m looking for help with **Building more cool projects**
 
 - 💬 Ask me about **OpenAI's API, GPTs**
 
