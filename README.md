@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wonchae Lee</h1>
 <h3 align="center">A determined Computer Science student at the University of Florida!</h3>
 
-- 🔭 I’m currently working on [My Internship! (And helping out on some research for my professor)](https://virtuallearninglab.org/research/storiza/)
+- 🔭 I’m currently working on [School.]
 
 - 🌱 I’m currently learning **Quantum Computing & Algorithms**
 
 - 🤝 I’m looking for help with **Building more cool projects**
 
-- 💬 Ask me about **OpenAI's API, GPTs**
+- 💬 Ask me about **OpenAI's API, Quantum Computing**
 
 - 📫 How to reach me: **wonchaelee05@gmail.com**
 
