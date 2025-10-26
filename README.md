@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wonchae Lee</h1>
 <h3 align="center">A determined Computer Science student at the University of Florida!</h3>
 
-- 🔭 I’m currently working on [Top Secret Stuff for the UF Gymnastics Tea!.]
+- 🔭 I’m currently working on [Top Secret Stuff for the UF Gymnastics Team!.](https://hhp.ufl.edu/research-faculty/sports-analytics-laboratory/)
 
 - 🌱 I’m currently learning **Operating Systems, Linear Regression, and Data Science**
 
