@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wonchae Lee</h1>
 <h3 align="center">A determined Computer Science student at the University of Florida!</h3>
 
-- 🔭 I’m currently working on [School.]
+- 🔭 I’m currently working on [Top Secret Stuff for the UF Gymnastics Tea!.]
 
-- 🌱 I’m currently learning **Quantum Computing & Algorithms**
+- 🌱 I’m currently learning **Operating Systems, Linear Regression, and Data Science**
 
-- 🤝 I’m looking for help with **Building more cool projects**
+- 🤝 I’m looking for help with **Learning More About Computer Vision!**
 
 - 💬 Ask me about **OpenAI's API, Quantum Computing**
 
