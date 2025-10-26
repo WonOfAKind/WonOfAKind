@@ -18,6 +18,10 @@
 <h3 align="center">🛠️ Personal Projects & Contributions 🛠️</h3>
 <ul>
     <li>
+    <strong>Qodo-AI:</strong> <em>Qodo offers an AI-powered code generation and testing tool that helps developers better understand and write code and increase their codebase's test coverage.</em>
+    <a href="https://github.com/WonOfAKind/pr-agent">Look a the code here!</a>
+  </li>
+  <li>
     <strong>SnapCards:</strong> <em>SnapCards is a web application that lets users create, take, and track quizzes while analyzing their performance over time through interactive dashboards</em>
     <a href="https://github.com/qwright10/cen3031">Look a the code here!</a>
   </li>
